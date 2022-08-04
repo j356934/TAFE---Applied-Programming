@@ -10,5 +10,5 @@ while True:
 for i in range(10):
     random_integer = random.randint(33,126)
     password += chr(random_integer)
-print("Password ", password)
+print("Password: ", password)
 
